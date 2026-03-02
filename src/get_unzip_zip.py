@@ -3,8 +3,6 @@ from collections.abc import Generator
 from pathlib import Path
 
 # Default directories on the Linux server
-# In server src_dir is /home/rjye/projects/research/kc_dp/zips and dest_dir is /home/rjye/projects/research/kc_dp/incourses
-
 
 SRC_DIR = Path("Archives_directory")
 DEST_DIR = Path("Incourses_directory")

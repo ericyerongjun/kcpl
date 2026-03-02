@@ -3,7 +3,6 @@ import shutil
 from pathlib import Path
 
 # Default directory – should match extract_lectures.py output
-# In server: /home/rjye/projects/research/kc_dp/outcourses
 OUTCOURSES_DIR = Path("Outcourses_directory")
 
 # Extensions to keep (before conversion)
